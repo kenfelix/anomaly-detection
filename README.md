@@ -45,7 +45,7 @@ The data stream simulates real-world scenarios by including:
 1. **Clone the repository**:
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/kenfelix/anomaly-detection.git
     cd anomaly-detection
     ```
 
